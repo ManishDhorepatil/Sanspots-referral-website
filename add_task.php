@@ -11,7 +11,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Add Task</title>
-        <link rel="stylesheet" href="./responsiveRegistration.css">
+        <link rel="stylesheet" href="./responsiveRegistration.css"> 
         <script type="text/javascript" lang="javascript" src="./responsiveRegistaration.js"></script>
         <link rel="stylesheet" href="style.css">
     </head>
